@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+name: Raphael Geddert
+title: Raphael Geddert
+description: A day in the life
+permalink: /:title/
+include: ["_pages"]
