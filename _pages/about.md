@@ -1,1 +1,1 @@
-This is about me
+about me
